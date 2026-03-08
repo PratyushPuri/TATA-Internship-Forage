@@ -15,6 +15,9 @@ To ensure the highest accuracy and deliver actionable business intelligence, a r
 * **Customer Concentration Analysis:** Evaluated the purchasing power of the top 10 customers to determine the company's reliance on key accounts and assess overall buyer bargaining power.
 
 ## Dashboard
+
+> File for Charts is `Task III`
+
 The visual presentation was systematically tailored to address the leadership's specific business questions:
 
 * **Revenue Trend Analysis:** A time-series visual demonstrating that the first eight months maintain a steady average revenue of approximately $685k, followed by a sharp 40% increase in September, ultimately peaking at $1.5 million in November.
